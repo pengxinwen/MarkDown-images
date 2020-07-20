@@ -1,2 +1,2 @@
 # MarkDown-images
-本人用户存放MarkDown图片
+本人用于存放MarkDown图片
